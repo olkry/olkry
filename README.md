@@ -9,7 +9,7 @@ class ME(PYTHON):
     def __init__(self, *interesting_things):
         self.frameworks = ['FastAPI', 'Flask', 'Django', 'Django Rest Framework']
         self.databases = ['PostgreSQL', 'SQLite']
-        self.orm = ['SQLAlchemy']
+        self.orm = 'SQLAlchemy'
         self.versioning = ['Git', 'GitHub']
         self.containers = ['Docker', 'Docker-compose']
         self.servers = ['Nginx', 'Uvicorn']
@@ -21,5 +21,14 @@ class ME(PYTHON):
             'знание алгоритмов и структур данных'
         ]
         self.tools = ['Alembic', 'asyncio', 'Bash']
-        self.to_learning = interesting_things
         self.location = 'Москва'
+        self.to_learning = interesting_things
+```
+
+## Мои проекты
+- [Благотворительное приложение](https://github.com/olkry/cat-charity-2) — FastAPI + PostgreSQL, автоматизация распределения пожертвований;
+- [Сервис коротких ссылок](https://github.com/olkry/diploma) — FastAPI + PostgreSQL + SQLAlchemy, интеграция новой модели и функционала Alembic.
+
+## Контакты
+- Telegram: @Gastiy (лучший способ связаться)
+- Email: adenos90@gmail.com
