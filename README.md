@@ -27,7 +27,7 @@ class ME(PYTHON):
 
 ## Мои проекты
 - [Благотворительное приложение](https://github.com/olkry/cat-charity-2) — FastAPI + PostgreSQL, автоматизация распределения пожертвований;
-- [Сервис коротких ссылок](https://github.com/olkry/diploma) — FastAPI + PostgreSQL + SQLAlchemy, интеграция новой модели и функционала Alembic.
+- [Сервис - букинг ресторанов](https://github.com/olkry/diploma) — FastAPI + PostgreSQL + SQLAlchemy, интеграция новой модели и функционала Alembic.
 
 ## Контакты
 - Telegram: @Gastiy (лучший способ связаться)
